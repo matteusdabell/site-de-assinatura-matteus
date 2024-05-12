@@ -1,0 +1,53 @@
+/* Estilos para o body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #322d5c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para a barra de navegação */
+nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: #999;
+}
+
+/* Estilos para a seção principal */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+
+/* Estilos para a lista de cursos */
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #8d1d1d;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
